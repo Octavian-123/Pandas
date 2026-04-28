@@ -1,4 +1,0 @@
-
-from google.colab import files
-
-upload = files.upload()
